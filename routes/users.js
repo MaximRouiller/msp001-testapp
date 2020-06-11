@@ -13,7 +13,7 @@ router.get('/json', function(req, res, next) {
   
   //todo: implement awesome application
   
-  res.send({firstname: 'Maxime', lastname: 'Rouiller', job: 'Professional Racoon Extraordinaire'});
+  res.send({firstname: 'Samuel', lastname: 'Rouiller', job: 'UnProfessional Racoon Extraordinaire'});
 
 });
 
